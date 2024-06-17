@@ -1,0 +1,4 @@
+runpod
+speedtest-cli
+matplotlib
+numpy

@@ -57,28 +57,28 @@ Use RunPod's interface or an HTTPS client (i.e. Postman) to send this payload to
 ## Example return value
 ```sh
 {
-  "delayTime": 5571,
-  "executionTime": 318607,
+  "delayTime": 7288,
+  "executionTime": 313862,
   "id": "your-unique-id-will-be-here",
   "output": {
-    "avg_download_speed": 104.35,
-    "avg_upload_speed": 38.21,
+    "avg_download_speed": 1560.86,
+    "avg_upload_speed": 1120.25,
     "best_server": {
-      "cc": "US",
-      "country": "United States",
-      "d": 6882.352930477993,
-      "host": "ookla2.eaglecable.net:8080",
-      "id": "31889",
-      "lat": "38.9172",
-      "latency": 78.37,
-      "lon": "-97.2139",
-      "name": "Abilene, KS",
-      "sponsor": "Vyve Broadband",
-      "url": "http://ookla2.eaglecable.net:8080/speedtest/upload.php"
+      "cc": "RO",
+      "country": "Romania",
+      "d": 136.05747880300632,
+      "host": "speedtest-c2.orange.ro:8080",
+      "id": "45319",
+      "lat": "46.7712",
+      "latency": 43.385,
+      "lon": "23.6236",
+      "name": "Cluj-Napoca",
+      "sponsor": "Orange Romania SA",
+      "url": "http://speedtest-c2.orange.ro:8080/speedtest/upload.php"
     },
-    "ping_image_url": "https://mybucket.nyc3.digitaloceanspaces.com/Speedtest/EU-RO-1_speed_test_ping_20240617_003042.png",
-    "results_url": "https://mybucket.nyc3.digitaloceanspaces.com/Speedtest/EU-RO-1_speed_test_results_20240617_003042.json",
-    "speed_image_url": "https://mybucket.nyc3.digitaloceanspaces.com/Speedtest/EU-RO-1_speed_test_speed_20240617_003042.png"
+    "ping_image_url": "https://mybucket.nyc3.digitaloceanspaces.com/Speedtest/EU-RO-1_speed_test_ping_20240617_013652.png",
+    "results_url": "https://mybucket.nyc3.digitaloceanspaces.com/Speedtest/EU-RO-1_speed_test_results_20240617_013652.json",
+    "speed_image_url": "https://mybucket.nyc3.digitaloceanspaces.com/Speedtest/EU-RO-1_speed_test_speed_20240617_013652.png"
   },
   "status": "COMPLETED"
 }

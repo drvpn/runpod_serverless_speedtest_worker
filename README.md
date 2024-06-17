@@ -2,7 +2,7 @@
 
 ![Banner](resources/Banner.png)
 
-This project allows users to install Speedtest, an bandwidth tool that can inspect a RunPod region's network.
+This project allows users to install Speedtest, a bandwidth tool that can inspect a RunPod region's network.
 
 ## Docker image
 

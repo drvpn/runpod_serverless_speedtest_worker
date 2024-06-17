@@ -8,6 +8,8 @@ This project allows users to install Speedtest, a bandwidth tool that can inspec
 
 Docker image available at: [Docker Hub](https://hub.docker.com/r/drvpn/runpod_serverless_speedtest_worker)
 
+## Example graphs
+
 ![Example Speed Graph](resources/EU-RO-1_speed_test_speed_20240617_013652.png) ![Example PING Graph](resources/EU-RO-1_speed_test_ping_20240617_013652.png)
 
 ## Required Environment Variables
